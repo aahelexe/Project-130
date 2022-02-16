@@ -1,0 +1,32 @@
+.heading
+{
+    font-size: 25px;
+    border-radius: 13;
+    width: 100%;
+    margin-top:0;  
+    color:darkgoldenrod; 
+}
+#note
+{
+    font-size: 15px;
+    color:black;
+}
+#now_playing
+{
+    border-radius: 13;
+}
+.copy_right_footer
+{
+    width: 100%;
+    bottom:0;
+    position:fixed;
+    line-height: 3;
+    font-size:15px;
+    background-color: grey;
+    color:white;
+    text-align:center;
+}
+canvas
+{
+    margin-top: 20;
+}
